@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# generated data — not for redistribution / too large for git
+data/raw/*.csv
+data/processed/*.duckdb
+
+# keep the folder structure but ignore contents
+!data/raw/.gitkeep
+!data/processed/.gitkeep
