@@ -1,7 +1,7 @@
 # Shop Consumer Intelligence: Funnel & Sentiment Analysis
 
 **Business question:** Where do customers drop off in the purchase journey, and what are they
-telling us — in their own words — about why?
+telling us  in their own words — about why?
 
 This project fuses **quantitative funnel analysis** (lead → order → delivery → repeat purchase)
 with **qualitative sentiment/topic analysis** of review text, on the same customer base, so
